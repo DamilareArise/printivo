@@ -116,6 +116,10 @@ header{
   font-size: 0.9rem;
 }
 
+.fa-twitter{
+  color: #1da1f2;
+}
+
 .section4{
   min-height: 50dvh;
 }
